@@ -5,7 +5,7 @@
 
 Este meu repositório é meuspara meus estudos, exercícios, desafios e projetos desenvolvidos durante minha jornada de aprendizado em programação e desenvolvimento web.
 
-O objetivo é documentar minha evolução, praticar conceitos aprendidos e servir como um ambiente para testes, experimentações e desenvolvimento de novas habilidades.
+O objetivo é documentar minha evolução, praticar conceitos aprendidos e servir como um ambiente para testes, experimentações e desenvolvimento de novas habilidades...
 
 ## 🚀 Tecnologias Estudadas
 
@@ -18,6 +18,7 @@ Atualmente estudo e pratico:
 * Java
 * SQL
 * Node
+
 
 ## 📂 Estrutura do Repositório
 
@@ -37,7 +38,7 @@ Este repositório foi criado para acompanhar meu progresso como desenvolvedor, r
 
 Gostaria de agradecer ao professor **Gustavo Guanabara**, pelos cursos e conteúdos têm sido uma das principais bases da minha formação em programação.
 
-Também agradeço a **Matheus Bitencourt Araújo** pelo apoio, orientação e incentivo desde que iniciei na programação.
+Também agradeço ao meu amigo **Matheus Bitencourt Araújo** pelo apoio, orientação e incentivo desde que iniciei na programação.
 
 ---
 
